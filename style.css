@@ -43,6 +43,7 @@
     
     .about {
         height: 150vh;
+        padding-top: -10vh
     }
     
     .name {
